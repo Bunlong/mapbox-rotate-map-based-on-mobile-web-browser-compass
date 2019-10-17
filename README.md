@@ -1,4 +1,4 @@
-# Mapox rotate map based on mobile web browser compass
+# Mapbox rotate map based on mobile web browser compass
 
 ```html
 <!DOCTYPE html>
